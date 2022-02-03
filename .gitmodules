@@ -1,3 +1,7 @@
+[submodule "AUTH"]
+	path = LNGAPY.AUTH
+	url = https://github.com/Wriggley91/LNGAPY.AUTH.git
+
 [submodule "APP"]
 	path = LNGAPY.APP
 	url = https://github.com/Wriggley91/LNGAPY.APP.git
