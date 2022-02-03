@@ -1,0 +1,19 @@
+[submodule "APP"]
+	path = LNGAPY.APP
+	url = https://github.com/Wriggley91/LNGAPY.APP.git
+
+[submodule "EVENTS"]
+	path = LNGAPY.EVENTS
+	url = https://github.com/Wriggley91/LNGAPY.EVENTS.git
+
+[submodule "EVENTSTORE"]
+	path = LNGAPY.EVENTSTORE
+	url = https://github.com/Wriggley91/LNGAPY.EVENTSTORE.git
+    
+[submodule "PROTO"]
+	path = LNGAPY.PROTO
+	url = https://github.com/Wriggley91/LNGAPY.PROTO.git
+    
+[submodule "USERS"]
+	path = LNGAPY.USERS
+	url = https://github.com/Wriggley91/LNGAPY.USERS.git
