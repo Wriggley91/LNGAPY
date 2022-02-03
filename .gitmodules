@@ -14,6 +14,10 @@
 	path = LNGAPY.EVENTSTORE
 	url = https://github.com/Wriggley91/LNGAPY.EVENTSTORE.git
     
+[submodule "PRODUCTS"]
+	path = LNGAPY.PRODUCTS
+	url = https://github.com/Wriggley91/LNGAPY.PRODUCTS.git
+
 [submodule "PROTO"]
 	path = LNGAPY.PROTO
 	url = https://github.com/Wriggley91/LNGAPY.PROTO.git
